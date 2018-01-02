@@ -1,2 +1,1 @@
-# sketches
-working with p5.js to create drawing and learn the fundamentals of coding.
+Draws an ellipse where ever the mouse goes! The color of the circles change every time, for a super cool effect.
