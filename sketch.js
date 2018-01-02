@@ -1,5 +1,5 @@
 function setup(){
-  createCanvas(640,360);
+  createCanvas(windowWidth,windowHeight);
 }
 
 mouseMoved = function() {
